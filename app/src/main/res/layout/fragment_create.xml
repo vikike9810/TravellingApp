@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:stretchColumns="1"
+    android:background="@color/Background">
+
+    <TableRow>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_column="1"
+            android:gravity="end"
+            android:text="@string/v_ros_neve"
+            android:textColor="@color/primaryDarkColor"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/etCityTitle"
+            android:width="200dp"
+            android:textColor="@color/primaryDarkColor"/>
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_column="1"
+            android:gravity="end"
+            android:text="@string/v_ros_le_r_sa"
+            android:textColor="@color/primaryDarkColor"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/etCityDescription"
+            android:width="200dp"
+            android:height="100dp"
+            android:singleLine="false"
+            android:textColor="@color/primaryDarkColor"/>
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_column="1"
+            android:gravity="end"
+            android:text="@string/els_l_tnival"
+            android:textColor="@color/primaryDarkColor"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/etSight1"
+            android:width="200dp"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/primaryDarkColor"/>
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_column="1"
+            android:gravity="end"
+            android:text="@string/m_sodik_l_tnival"
+            android:textColor="@color/primaryDarkColor"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/etSight2"
+            android:width="200dp"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/primaryDarkColor"/>
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_column="1"
+            android:gravity="end"
+            android:text="@string/harmadik_l_tnival"
+            android:textColor="@color/primaryDarkColor"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/etSight3"
+            android:width="200dp"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/primaryDarkColor"/>
+
+    </TableRow>
+
+    <TableRow>
+
+        <Button
+            android:id="@+id/btnCancelCreateCity"
+            android:layout_width="wrap_content"
+            android:layout_column="1"
+            android:gravity="center"
+            android:text="@string/cancel"
+            android:background="@color/primaryDarkColor"
+            android:textColor="@android:color/white"
+            android:layout_margin="2dp"/>
+
+        <Button
+            android:id="@+id/btnCreateCity"
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:text="@string/ok"
+            android:background="@color/primaryDarkColor"
+            android:textColor="@android:color/white"
+            android:layout_margin="2dp"/>
+
+    </TableRow>
+
+</TableLayout>

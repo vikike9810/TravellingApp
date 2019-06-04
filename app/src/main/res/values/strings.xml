@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Travelling</string>
+    <string name="title_city_detail">City Detail</string>
+    <string name="car">By Car</string>
+    <string name="plain">By Plain</string>
+    <string name="by_train">By Train</string>
+    <string name="public_transport">Public Transport</string>
+    <string name="v_ros_neve">City Name</string>
+    <string name="v_ros_le_r_sa">Description</string>
+    <string name="els_l_tnival">First Sight</string>
+    <string name="m_sodik_l_tnival">Second Sight</string>
+    <string name="harmadik_l_tnival">Third Sight</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="sight1">sight1</string>
+    <string name="sight2">sight2</string>
+    <string name="sight3">sight3</string>
+    <string name="l_tnival_k">Látnivalók</string>
+    <string name="sights">Sights</string>
+    <string name="add_city">Add City</string>
+    <string name="required">required field</string>
+    <string name="delete_all">Delete All</string>
+</resources>
