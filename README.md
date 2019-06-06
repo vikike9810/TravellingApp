@@ -1,5 +1,5 @@
 # TravellingApp
-Utazástervező applikáció:
+<b>Utazástervező applikáció:</b>
 
 -Városok felvétele
 
