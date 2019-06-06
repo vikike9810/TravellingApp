@@ -10,4 +10,4 @@ Utazástervező applikáció:
 -utazástervezés (autó, repülő, tömegközlekedés)
 
 
-<img src="https://github.com/vikike9810/TravellingApp/blob/master/city_list.png" width="200"/>
+<img src="https://github.com/vikike9810/TravellingApp/blob/master/city_list.png" width="400"/>
